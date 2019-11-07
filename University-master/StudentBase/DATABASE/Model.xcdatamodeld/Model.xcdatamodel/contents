@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15508" systemVersion="19A487m" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Student" representedClassName="Student" syncable="YES" codeGenerationType="class">
+        <attribute name="userBirthDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="userCourse" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="userEmail" optional="YES" attributeType="String"/>
+        <attribute name="userFaculty" optional="YES" attributeType="String"/>
+        <attribute name="userLastName" optional="YES" attributeType="String"/>
+        <attribute name="userName" optional="YES" attributeType="String"/>
+        <attribute name="userPassword" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Student" positionX="-1162" positionY="-898" width="128" height="148"/>
+    </elements>
+</model>
